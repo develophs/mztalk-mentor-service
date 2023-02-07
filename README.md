@@ -1,5 +1,7 @@
 # mztalk-mentor-service
 Final Project Mentoring Service Personal Repository
+- **Skill Keywords**
+      `Java` `JS` `Spring Boot` `JPA` `Spring Data JPA` `MySQL` `REST API` `Querydsl`
 <br><br><br>
 Final Project(All Repository)
 <br>
