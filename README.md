@@ -3,7 +3,7 @@ Final Project Mentoring Service Personal Repository
 - **Skill Keywords**
       `Java` `JS` `Spring Boot` `JPA` `Spring Data JPA` `MySQL` `REST API` `Querydsl`
 <br><br><br>
-Final Project(All Repository)
+Final Project(All Service)
 <br>
 https://github.com/bmm522/mztalk
 
